@@ -1,0 +1,14 @@
+header {
+    font-family: sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+    margin: 10px;
+}
+
+nav a:hover {
+    border-bottom: solid 1px green;
+    color:green;
+}
